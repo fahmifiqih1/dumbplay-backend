@@ -1,9 +1,9 @@
 {
   "development": {
     "username": "root",
-    "password": "root",
+    "password": "Admin123!",
     "database": "dumbplay",
-    "host": "127.0.0.1",
+    "host": "10.0.102.195",
     "dialect": "mysql",
     "operatorsAliases": false
   },
