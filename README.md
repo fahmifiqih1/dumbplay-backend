@@ -7,3 +7,4 @@
 5. npm run dev for start backend
 
 Note : admin need register and role is `1`
+try cicd
