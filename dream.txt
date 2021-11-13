@@ -1,3 +1,4 @@
 1. read and speak 
 2. devops
 3. middle devops
+4. exp devops
