@@ -1,7 +1,7 @@
 {
   "development": {
     "username": "root",
-    "password": "admin1!",
+    "password": "admin1",
     "database": "dumbplay",
     "host": "mysql-compose",
     "dialect": "mysql",
