@@ -1,3 +1,2 @@
-devops eng
-travel
-devops hand
+1. read and speak 
+2. devops
